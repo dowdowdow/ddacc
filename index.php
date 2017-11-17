@@ -22,7 +22,7 @@
             <div class="hero">
             <h1>Be ready to fly!</h1>
                 <div class="form">
-                    <form method="post" action="index.html" class="login-form">
+                    <form method="post" action="index.php" class="login-form">
                         <input type="text" name="username" placeholder="Username"/>
                         <input type="password" name="password" placeholder="Password"/>
                         <button type="submit" name="login">Login</button>
