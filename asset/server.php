@@ -36,7 +36,7 @@
             //log user in
             $_SESSION['username'] = $username;
             $_SESSION['success'] = "You are now logged in";
-            header('location: checkin.php'); //redirect to checkin
+            header('location: asset/checkin.php'); //redirect to checkin
         
         }
 
