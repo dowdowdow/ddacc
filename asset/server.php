@@ -1,6 +1,6 @@
 <?php 
     session_start();
-    $db = mysqli_connect('ddacflightapp-mysqldbserver.mysql.database.azure.com', 'mysqldbuser@ddacflightapp-mysqldbserver', 'Skyberyls96', 'mysqldatabase27761');
+    $db = mysqli_connect('ddacflightus-mysqldbserver.mysql.database.azure.com', 'mysqldbuser@ddacflightus-mysqldbserver', 'Skyberyls96', 'databaseus');
 
     if (!$db) {
         die("Connection failed: " . mysqli_connect_error());
