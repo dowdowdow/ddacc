@@ -20,7 +20,7 @@
             </div>
                 
             <div class="hero">
-            <h1>Be ready to fly!</h1>
+            <h1>Be ready to fly (SEA) !</h1>
                 <div class="form">
                     <form method="post" action="index.php" class="login-form">
                         <input type="text" name="username" placeholder="Username"/>
